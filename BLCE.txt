@@ -1,0 +1,3 @@
+The BLCE (blockchain) certification system will be an exclusive integration for companies. BLCE’s goal is to certify the products of companies, to ensure originality through blockchain. Consumers will be able to search for the products of the companies also through the qrcodes that will be created specifically for them, and verify that they are certified through the blockchain . At this stage the public will be able to know all the characteristics that the producer will have registered and verified.
+This system can be implemented with the company’s systems to accelerate the verification process and make everything as simple and transparent as possible.
+BLCE service will cost $2 per registered product
